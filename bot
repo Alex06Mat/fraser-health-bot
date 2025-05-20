@@ -1,1 +1,2 @@
+python fraser_bot.py
 pip install -r requirements.txt
